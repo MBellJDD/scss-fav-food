@@ -1,0 +1,77 @@
+* {
+    background-color: rgb(204, 196, 196);
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.cabecera {
+    background-repeat: no-repeat;
+    padding: 70px;
+    height: 700px;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+
+}
+.texto-encima {
+    background-color: white;
+    position: absolute;    
+    top: 300px;
+    left: 400px;
+}
+
+.container{
+    background-position: center;
+    background-size: cover;
+    font-size: large;
+    text-align: center;
+   
+    border: 10px solid rgb(175, 154, 129);
+   
+    height: 500px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.ingredientes{
+    margin-top: 20px;
+    width: 80%;
+    height: 600px;  
+    border-color: crimson;
+    flex-basis: 60%;
+   
+}
+
+.tiempo{
+    font-size: large;
+    padding: 40px;
+    width: 20%;
+    border-style: dashed;
+    border: 20px solid rgb(175, 154, 129);
+    flex-basis: 35%;
+}
+
+h2{
+    text-align: center;
+}
+.preparacion{
+    text-align: left;
+    width: auto;
+    height: 400px;
+    border-style: dashed;
+    border: 10px solid rgb(141, 122, 98);
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+h3{
+    margin: 10px;
+    text-align: center;
+}
+
+.fin{
+        background-color: #ffd0a0;
+        justify-content: center;
+        align-items: center;
+}

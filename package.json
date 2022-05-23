@@ -1,0 +1,22 @@
+{
+  "name": "scss-fav-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBellJDD/scss-fav-food.git"
+  },
+  "author": "MaryBell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBellJDD/scss-fav-food/issues"
+  },
+  "homepage": "https://github.com/MBellJDD/scss-fav-food#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
